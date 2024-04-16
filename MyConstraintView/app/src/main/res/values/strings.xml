@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyConstraintView</string>
+    <string name="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mattis cursus urna, id hendrerit ante sodales sit amet. Nulla facilisi. Sed vel vehicula augue.</string>
+    <string name="content_specs_display">
+        Fantasy
+        \nGame
+        \nHarem
+    </string>
+    <string name="content_specs_size">3.14 x r x r x t or 22/7 x r x r x t</string>
+    <string name="content_specs_battery">
+        Synonyms: Sword Art Online
+        \nJapanese: ソードアート・オンライン
+        \nType: TV
+        \nEpisodes: 25
+        \nAired: Jul 8, 2012 to Dec 23, 2012
+        \nPremiered: Summer 2012
+        \nStudios: A-1 Pictures
+    </string>
+    <string name="title">Sword Art Online</string>
+    <string name="specification">Information</string>
+    <string name="display">Genre</string>
+    <string name="size">Rumus Volume Tabung</string>
+    <string name="battery">Detail</string>
+    <string name="seller">Studio</string>
+    <string name="my_name">A-1 Pictures</string>
+    <string name="buy">Watch</string>
+    <string name="dummy_value">Episode 1</string>
+    <string name="dummy_photos">1 photos</string>
+</resources>
